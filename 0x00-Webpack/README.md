@@ -6,7 +6,7 @@
 
 . [Webpack beginner guide](https://intranet.alxswe.com/rltoken/6ngQzrV7xeKJjcRwdmrYAQ)
 
-. {npm-package.json](https://intranet.alxswe.com/rltoken/P00rJM5qCeaf33hsPuhgog)
+. (npm-package.json](https://intranet.alxswe.com/rltoken/P00rJM5qCeaf33hsPuhgog)
 
 
 # By Simpson Iluyomade.
