@@ -1,5 +1,8 @@
 ﻿# 0x02. React props
 
+![react props](https://github.com/simpsonismade24d/alx-react/assets/111156398/8a696aac-7b16-4429-98f7-0430b3fd445e)
+
+
 # Resources ( Read or Watch)
 
 . [React Official Website](https://intranet.alxswe.com/rltoken/XY-3QaRU8GcLgridCcoi3w)
