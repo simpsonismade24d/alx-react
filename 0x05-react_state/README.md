@@ -2,7 +2,7 @@
 
 # Resources
 
-*Read or watch:*
+* Read about the following;
 
 . State and lifecycle
 
@@ -25,4 +25,4 @@
 . Enzyme Simulate
 
 
-# By Simpson Iluyomade, August 2023.
+# By Simpson Iluyomade (simpsonismade24d) August 2023.
